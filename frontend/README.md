@@ -30,5 +30,13 @@ A full-stack Movie Recommendation System built with FastAPI and React.
 
 ---
 
-## 📂 Project Structure
+# Recommendation System
+
+## Project Screenshots
+
+### Home Page
+![Home](imges/home.png.png)
+
+### Dashboard
+![Dashboard](imges/recom.png.png)
 
